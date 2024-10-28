@@ -1,2 +1,2 @@
-This is a Basic react Todo Wbe app made Using
-#REDUX-REACT 
+#React-Redux
+THis is a basic todo app made using react-redux
